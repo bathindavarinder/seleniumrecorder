@@ -1,0 +1,10 @@
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\bin\Debug\chromedriver.exe
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\bin\Debug\IEDriverServer.exe
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\bin\Debug\SeleniumRecorder.POMSample.dll
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\bin\Debug\SeleniumRecorder.POMSample.pdb
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\bin\Debug\nunit.framework.dll
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\bin\Debug\WebDriver.dll
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\bin\Debug\WebDriver.Support.dll
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\obj\Debug\SeleniumRecorder.POMSample.csprojResolveAssemblyReference.cache
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\obj\Debug\SeleniumRecorder.POMSample.dll
+D:\SeleniumRecorder\SeleniumRecorder.POMSample\SeleniumRecorder.POMSample\obj\Debug\SeleniumRecorder.POMSample.pdb
