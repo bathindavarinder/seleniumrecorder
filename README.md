@@ -12,4 +12,4 @@ You just need to load your application, select controls you want to include and 
 
 Getting started video is available now.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFw8bjzdfU8" frameborder="0" allowfullscreen></iframe>
+ https://www.youtube.com/watch?v=vFw8bjzdfU8
