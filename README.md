@@ -1,4 +1,4 @@
-# seleniumrecorderSelenium Recorder
+# Selenium Recorder
 
 If you are using selenium wedriver for automation of Web Application. It is always tedious task to create page object model or page factory. You have to inspect and search properties for controls.
 
